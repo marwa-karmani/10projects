@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/marwa-karmani/10projects/static/css/main.073c9b0a.css",
-    "main.js": "/marwa-karmani/10projects/static/js/main.e9267c03.js",
+    "main.js": "/marwa-karmani/10projects/static/js/main.e13f463e.js",
     "static/js/787.283a7573.chunk.js": "/marwa-karmani/10projects/static/js/787.283a7573.chunk.js",
-    "static/media/logo.svg": "/marwa-karmani/10projects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/marwa-karmani/10projects/index.html",
     "main.073c9b0a.css.map": "/marwa-karmani/10projects/static/css/main.073c9b0a.css.map",
-    "main.e9267c03.js.map": "/marwa-karmani/10projects/static/js/main.e9267c03.js.map",
+    "main.e13f463e.js.map": "/marwa-karmani/10projects/static/js/main.e13f463e.js.map",
     "787.283a7573.chunk.js.map": "/marwa-karmani/10projects/static/js/787.283a7573.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e9267c03.js"
+    "static/js/main.e13f463e.js"
   ]
 }
