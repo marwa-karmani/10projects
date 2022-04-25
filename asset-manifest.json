@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/marwa-karmani/10projects/static/css/main.073c9b0a.css",
-    "main.js": "/marwa-karmani/10projects/static/js/main.e13f463e.js",
-    "static/js/787.283a7573.chunk.js": "/marwa-karmani/10projects/static/js/787.283a7573.chunk.js",
-    "index.html": "/marwa-karmani/10projects/index.html",
-    "main.073c9b0a.css.map": "/marwa-karmani/10projects/static/css/main.073c9b0a.css.map",
-    "main.e13f463e.js.map": "/marwa-karmani/10projects/static/js/main.e13f463e.js.map",
-    "787.283a7573.chunk.js.map": "/marwa-karmani/10projects/static/js/787.283a7573.chunk.js.map"
+    "main.css": "/10projects/static/css/main.073c9b0a.css",
+    "main.js": "/10projects/static/js/main.31051c10.js",
+    "static/js/787.283a7573.chunk.js": "/10projects/static/js/787.283a7573.chunk.js",
+    "index.html": "/10projects/index.html",
+    "main.073c9b0a.css.map": "/10projects/static/css/main.073c9b0a.css.map",
+    "main.31051c10.js.map": "/10projects/static/js/main.31051c10.js.map",
+    "787.283a7573.chunk.js.map": "/10projects/static/js/787.283a7573.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e13f463e.js"
+    "static/js/main.31051c10.js"
   ]
 }
