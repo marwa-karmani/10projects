@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/10projects/static/css/main.941b99c4.css",
-    "main.js": "/10projects/static/js/main.7f1a59e8.js",
+    "main.css": "/10projects/static/css/main.0f936ac3.css",
+    "main.js": "/10projects/static/js/main.acf59891.js",
     "static/js/787.283a7573.chunk.js": "/10projects/static/js/787.283a7573.chunk.js",
     "static/media/to-do-list-icon-buy-this-icon-for--0-48-1.png": "/10projects/static/media/to-do-list-icon-buy-this-icon-for--0-48-1.7e8d8bc1435fe4ae098c.png",
     "index.html": "/10projects/index.html",
-    "main.941b99c4.css.map": "/10projects/static/css/main.941b99c4.css.map",
-    "main.7f1a59e8.js.map": "/10projects/static/js/main.7f1a59e8.js.map",
+    "main.0f936ac3.css.map": "/10projects/static/css/main.0f936ac3.css.map",
+    "main.acf59891.js.map": "/10projects/static/js/main.acf59891.js.map",
     "787.283a7573.chunk.js.map": "/10projects/static/js/787.283a7573.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.941b99c4.css",
-    "static/js/main.7f1a59e8.js"
+    "static/css/main.0f936ac3.css",
+    "static/js/main.acf59891.js"
   ]
 }
