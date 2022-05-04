@@ -1,2 +1,2 @@
-# 10projects
-https://marwa-karmani.github.io/10projects/
+# projects
+https://marwa-karmani.github.io/projects/
